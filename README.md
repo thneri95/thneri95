@@ -14,12 +14,12 @@
 
 # 🚀 About Me
 
-I'm a technology professional with nearly a decade of experience helping enterprises solve complex business challenges through **Cybersecurity**, **Fraud Prevention**, and **Digital Identity** solutions;
+I'm a professional with a decade of experience helping enterprises solve complex business challenges through **Corporate Finance**, **Cybersecurity**, **Fraud Prevention**, and **Digital Identity** solutions;
 
 Currently, I'm transitioning into **Software Engineering**, combining my business expertise with modern software development to build scalable, secure, and data-driven applications!!!
 
 Background:
-- 💼 Finance and Tech Business Developer -> CyberSecurity & Data Science solutions;
+- 💼 Finance and Tech Business Developer -> Actually working as a CyberSecurity & Data Science Consultant;
 - 🎓 Bachelor's Degrees in Economics & Accounting + Master in Finance;
   
 - 🎓 Pursuing a 3rd BSc in Software Development — **BYU–Idaho** 2024 ~ 2027;
