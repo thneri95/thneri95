@@ -18,18 +18,19 @@ I'm a technology professional with nearly a decade of experience helping enterpr
 
 Currently, I'm transitioning into **Software Engineering**, combining my business expertise with modern software development to build scalable, secure, and data-driven applications!!!
 
-- 🎓 Pursuing a BSc in Software Development — **BYU–Idaho**
-- 💡 Passionate about Software Engineering, Data Science, Cloud Computing and Cybersecurity
-- ⚡ Always learning something new
-
-- 🎓 Background: Bachelor's Degrees in Economics & Accounting + MBA in Finance;
-- 💼 Business Developer - CyberSecurity
+Background:
+- 💼 Finance and Tech Business Developer -> CyberSecurity & Data Science solutions;
+- 🎓 Bachelor's Degrees in Economics & Accounting + Master in Finance;
+  
+- 🎓 Pursuing a 3rd BSc in Software Development — **BYU–Idaho** 2024 ~ 2027;
+- 💡 Passionate about Software Engineering, Data Science and Cloud Computing;
+- ⚡ Open minded - Always learning something new! 
 - 🌎 Based in Brazil
 
 
 ---
 
-# 💻 Tech Stack
+# 💻 Stacks
 
 ### Languages
 
@@ -59,25 +60,25 @@ Currently, I'm transitioning into **Software Engineering**, combining my busines
 
 # 🎯 Deep Learning
 
-- Full-Stack Software Engineering
+- Full-Stack Software Engineering;
 - C# .NET Core;
 - TypeScript, Node.JS, React , Vue;
 - REST APIs;
 - Data Structures & Algorithms;
 - SQL & NoSQL Databases;
 - Cloud Architecture;
-- Software Design Patterns
+- Software Design Patterns;
 
 ---
 
 # 🌟  Interests
 
-- 🔐 Cybersecurity
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- ☁️ Cloud Computing
-- 💼 Business Strategy - DevOps/FinOps
-- 💻 Software Architecture/Engineering
+- 🔐 Cybersecurity;
+- 🤖 Artificial Intelligence;
+- 📊 Data Science;
+- ☁️ Cloud Computing;
+- 💼 Business Strategy - DevOps/FinOps;
+- 💻 Software Architecture/Engineering;
 
 ---
 
