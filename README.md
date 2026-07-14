@@ -1,7 +1,8 @@
 <!-- Animated Header -->
 <div align="center">
 
-# Hi there 👋 I'm Tiago Neri
+# Hi there 👋
+# I'm Tiago Neri
 
 ### Full-Stack Software Developer • Business Development • Technology • Cybersecurity
 
@@ -57,7 +58,7 @@ Currently, I'm transitioning into **Software Engineering**, combining my busines
 
 ---
 
-# 🎯 Deeply Learning and Developing
+# 🎯 Deep Learning
 
 - Full-Stack Software Engineering
 - C# .NET Core;
