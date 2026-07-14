@@ -4,7 +4,7 @@
 # Hi there 👋
 # I'm Tiago Neri
 
-### Full-Stack Software Developer • Business Development • Technology • Cybersecurity
+### Full-Stack Software Developer • Business Development • Data Science • Cybersecurity
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Development+Student;Full-Stack+Developer+in+the+Making;Passionate+about+Technology%2C+AI+and+Cybersecurity" />
 
