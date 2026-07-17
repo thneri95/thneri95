@@ -25,8 +25,7 @@ Background:
 - 🎓 Pursuing a 3rd BSc in Software Development — **BYU–Idaho** 2024 ~ 2027;
 - 💡 Passionate about Software Engineering, Data Science and Cloud Computing;
 - ⚡ Open minded - Always learning something new! 
-- 🌎 Based in Brazil
-
+- 🌎 Multilingual professional (EN-ES-PTBR) – Based in Brazil;
 
 ---
 
